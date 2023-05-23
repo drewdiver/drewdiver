@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 💻 Mac Client Platform Engineer @ Schibsted
-- 🌱 I’m currently learning SwiftUI and getting more serious with Python
 - 📫 shout at drew diver dot com
+- 🌐 Visit my [website](https://drewdiver.com) for more details
